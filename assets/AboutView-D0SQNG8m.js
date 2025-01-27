@@ -1,0 +1,1 @@
+import{_ as t,c as o,a,o as s}from"./index-C7VI1nv6.js";const n={},r={class:"about"};function c(i,e){return s(),o("div",r,e[0]||(e[0]=[a("h1",null,"This is an about page about Peter Paige",-1)]))}const u=t(n,[["render",c]]);export{u as default};
