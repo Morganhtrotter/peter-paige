@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Deploy to Production
+
+```sh
+npm run deploy
+```
